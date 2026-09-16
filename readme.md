@@ -163,8 +163,7 @@ _**Example**_: A tkinter slide from Study Module 8
 _**Example**_: A code demo from Study Module 10
 
 ## Lecture recording
-Video Placeholder
-
+<video src="https://github.com/user-attachments/assets/acb33814-76fe-46a5-9ce5-c941554b14f2"></video>
 _**Example**_: A short clip from Study Module 9
 
 ## Lab task
