@@ -1,7 +1,7 @@
 # Python Showcase
 
 This repository is meant to act as a visual snapshot of the python development I have been contracted to develop for the subject **48024 Programming 2** at UTS.
-As this content is UTS IP, only small snippets can be shown.
+As this content is owned by UTS, only small snippets can be shown.
 
 <details>
 <summary><strong>Assignment Development</strong></summary>
@@ -20,14 +20,14 @@ The same case study is shared across both assignments.
 
 ## Assignment 1
 
-Both assignments are heavily focused on understanding and implementing object-oriented principles. Designing the class strucuture of the assignment is a delicate balance between ensuring students are challenged and presented with good principles, whilst also being at a difficulty level that is feasible for them to achieve within the timeframe.
+Both assignments are heavily focused on understanding and implementing object-oriented principles. Designing the class structure of the assignment is a delicate balance between ensuring students are challenged and presented with good principles, whilst also being at a difficulty level that is feasible for them to achieve within the timeframe.
 
 ![class_diagram](/image/assignment/class_diagram.png)
 _**Example**_: The class diagram from Autumn 2026 which models an imaginary card game named 'Around the Table'
 
 Students are given the class diagram, specification, and starting scaffold. This means I need to balance which classes/functions students are given and which are expected to be developed.
 
-Although rare, this sometimes gives me the opportunity to provide something more intermediate/advanced as part of the scaffold to encourage them to learn something new without an unncessary challenge.
+Although rare, this sometimes gives me the opportunity to provide something more intermediate/advanced as part of the scaffold to encourage them to learn something new without an unnecessary challenge.
 
 ```python
 class League:
@@ -114,7 +114,7 @@ From 2026 Autumn onwards, the visual assets have also been created by myself.
 <summary><strong>Refresher Content</strong></summary>
 
 <br>
-Programming 2 includes a "Week 0" module with various introductory ativites. "Refresher" activities are included for both Java and Python. Although slides existed for Python already, there were no dedicated coding challenges. I was permitted to add various coding challenges to improve the student's understanding of fundamental python syntax and logic.
+Programming 2 includes a "Week 0" module with various introductory activities. "Refresher" activities are included for both Java and Python. Although slides existed for Python already, there were no dedicated coding challenges. I was permitted to add various coding challenges to improve the student's understanding of fundamental python syntax and logic.
 
 ## Slides
 The existing text-based slides for python were fantastic and I only felt the need to add 1 extra slide, dedicated to slicing.
@@ -128,7 +128,7 @@ Some challenges were presented "as is". That is, there were no requirements to a
 _**Example**: A Movie class_
 
 
-Some challenges required students to "fill in the gaps" to complete the specificaton.
+Some challenges required students to "fill in the gaps" to complete the specification.
 
 ![operator](/image/refresher/refresher_2.png)
 _**Example**_: An exercise to practice using the modulo and integer division operator
@@ -147,7 +147,7 @@ _Movie program walkthrough_
 <br>
 As part of the transition from a Java-only subject to a Java-Python hybrid subject, a large amount of Python content needed to be created to match the existing Java content.
 
-As of 2026, some study module content relating to Tkinter GUI was still needed. Although some videos did exist, I used this as an opporunity to fully overhaul all aspects of the Tkinter content for the subject to include best practices and keep approaches consistent across all aspects of the subject.
+As of 2026, some study module content relating to Tkinter GUI was still needed. Although some videos did exist, I used this as an opportunity to fully overhaul all aspects of the Tkinter content for the subject to include best practices and keep approaches consistent across all aspects of the subject.
 
 To do this, I developed:
 - High quality slides for modules 7, 8, 9 and 10,
