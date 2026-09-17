@@ -52,7 +52,7 @@ class League:
 
 league = League(seeded_data.get_teams(), seeded_data.get_players(), seeded_data.get_managers())
 ```
-_**Example**_: The singleton pattern implemented for the League class in the spring 2025 assignment
+_**Example**_: The singleton pattern implemented for the `League` class in the spring 2025 assignment
 
 Student's also need to be presented with a working solution. For every assignment, a clean implementation that matches 1-to-1 with their expected output is developed by myself and integrated into EdStem using Edstem's 'Check' feature.
 
@@ -62,7 +62,7 @@ Student's also need to be presented with a working solution. For every assignmen
 
 Assignment 2 involves recreating Assignment 1 as a GUI. I refactor the solution code from Assignment 1 such that:
 - Input/output are removed (since these will both come from UI interactions)
-- Errors are changed from print statements to instead throw custom exceptions out of the function
+- Errors are changed from print statements to instead raise custom exceptions out of the function
 
 ```python
 def __place_main(self, main):
@@ -77,6 +77,7 @@ def __place_main(self, main):
         self.__hand.append(main)
     return None
 ```
+_**Example**_: A function in Assignment 1 utilising terminal input and printing errors on the console
 ```python
 def place(self, card):
     if self.hand_full():
@@ -85,6 +86,7 @@ def place(self, card):
     self.__hand.append(card)
     self.calculate_health()
 ```
+_**Example**_: A function in Assignment 2 with no input/output and raising an exception
 
 Once again, a clean 1-to-1 solution is developed by myself for use in a video demonstration that showcases how each window is expected to look and behave, and which windows should open from which interaction.
 
