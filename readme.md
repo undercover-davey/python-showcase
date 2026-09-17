@@ -1,5 +1,6 @@
+# Python Showcase
 
-This repository is meant to act as a visual snapshot of the python development I have been contacted to do for the subject 48024 Programming 2 at UTS.
+This repository is meant to act as a visual snapshot of the python development I have been contracted to develop for the subject **48024 Programming 2** at UTS.
 As this content is UTS IP, only small snippets can be shown.
 
 <details>
@@ -8,7 +9,7 @@ As this content is UTS IP, only small snippets can be shown.
 <br>
 Programming 2 is one of very few subjects that are permitted to develop a brand new major assignment each semester. Although there are general guidelines to follow regarding difficulty, scope, expected data structures and restrictions, it is my job to fully design, develop and maintain the entire assessment through it's 2 major components:
 
-- Assignment 1
+- **Assignment 1**
     - 35% of the grade
     - Developed as a console application in **Java** OR **Python**
 - **Assignment 2**
